@@ -1,0 +1,3 @@
+DB_USER=metabase
+DB_PASS=xxxxxxxx
+CSV_DIR=./data/scans/
